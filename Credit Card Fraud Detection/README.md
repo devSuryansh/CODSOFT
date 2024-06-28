@@ -12,4 +12,4 @@ It is important that credit card companies are able to recognize fraudulent cred
 <p>Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.</p>
 
 ### Acknowledgements
-The dataset has been collected and analysed during a research collaboration of Worldline and the [Machine Learning Group of ULB](http://mlg.ulb.ac.be) (Université Libre de Bruxelles) on big data mining and fraud detection.
+The [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) has been collected and analysed during a research collaboration of Worldline and the [Machine Learning Group of ULB](http://mlg.ulb.ac.be) (Université Libre de Bruxelles) on big data mining and fraud detection.
