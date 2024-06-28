@@ -12,7 +12,7 @@ While there was some element of luck involved in surviving, it seems some groups
 </p>
 
 ## Acknowledgements
-This [dataset](https://www.kaggle.com/c/titanic/data) has been referred from Kaggle.
+This [dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset) has been referred from Kaggle.
 
 ## Objective
 - Understand the Dataset & cleanup (if required).
